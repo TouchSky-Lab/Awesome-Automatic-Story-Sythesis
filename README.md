@@ -16,3 +16,8 @@
 # Visual Storytelling
 
 # Theory
+
+
+
+# Reference
+[1] https://github.com/LouisCastricato/Narratology-Papers
