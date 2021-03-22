@@ -8,12 +8,13 @@
 - Hierarchical Neural Story Generation. ACL, 2018.  [[paper](https://arxiv.org/abs/1805.04833)][[code](https://github.com/kevalnagda/StoryGeneration)]  
 - Toward Automated Quest Generation in Text-Adventure Games arxiv, 2019. [[paper](https://arxiv.org/abs/1909.06283)]  
 - Toward Automated Story Generation with Markov Chain Monte Carlo Methods and Deep Neural Networks INT, 2017. [[paper](https://www.cc.gatech.edu/~riedl/pubs/int17.pdf)]  
-- dAIrector: Automatic Story Beat Generation through Knowledge Synthesis AAAI, 2018.  [[paper](https://arxiv.org/abs/1811.03423)][[code](https://github.com/korymath/dairector)]  
+- dAIrector: Automatic Story Beat Generation through Knowledge Synthesis AAAI, 2018.  [[paper](https://arxiv.org/abs/1811.03423)][[code](https://github.com/korymath/dairector)] 
 - Creative Help: A Story Writing Assistant ICIDS, 2015. [[paper](https://people.ict.usc.edu/gordon/public_html/publications/ICIDS15.PDF)]  
-- Improving Neural Story Generation by Targeted Common Sense Grounding. EMNLP 2019 [[paper](https://arxiv.org/pdf/1908.09451.pdf)[code](https://github.com/calclavia/story-generation)]
+- Improving Neural Story Generation by Targeted Common Sense Grounding. EMNLP 2019 [[paper](https://arxiv.org/pdf/1908.09451.pdf)][[code](https://github.com/calclavia/story-generation)]
 - Story Ending Generation with Incremental Encoding and Commonsense Knowledge. AAAI, 2019[[paper](https://arxiv.org/pdf/1808.10113.pdf)][[code](https://github.com/JianGuanTHU/StoryEndGen)]
 - A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation [[paper](https://arxiv.org/pdf/2001.05139.pdf)] [[code](https://github.com/JianGuanTHU/CommonsenseStoryGen)]
 - Agent for Story Turn-taking using Event Representations. AAAI 2018. [[paper](https://laramartin.net/pub/AAAI18-EventRepresentations.pdf)][[code](https://github.com/lara-martin/ASTER)]  
+- Counterfactual Story Reasoning and Generation. EMNLP 2019. [[paper](https://arxiv.org/abs/1909.04076)] [[code](https://github.com/qkaren/Counterfactual-StoryRW)]
 
 
 
