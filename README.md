@@ -12,6 +12,10 @@
 - Creative Help: A Story Writing Assistant ICIDS, 2015. [[paper](https://people.ict.usc.edu/gordon/public_html/publications/ICIDS15.PDF)]  
 - Improving Neural Story Generation by Targeted Common Sense Grounding. EMNLP 2019 [[paper](https://arxiv.org/pdf/1908.09451.pdf)[code](https://github.com/calclavia/story-generation)]
 - Story Ending Generation with Incremental Encoding and Commonsense Knowledge. AAAI, 2019[[paper](https://arxiv.org/pdf/1808.10113.pdf)][[code](https://github.com/JianGuanTHU/StoryEndGen)]
+- A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation [[paper](https://arxiv.org/pdf/2001.05139.pdf)] [[code](https://github.com/JianGuanTHU/CommonsenseStoryGen)]
+- Agent for Story Turn-taking using Event Representations. AAAI 2018. [[paper](https://laramartin.net/pub/AAAI18-EventRepresentations.pdf)][[code](https://github.com/lara-martin/ASTER)]  
+
+
 
 # Story Genration Evaluation Metric
 - Do Massively Pretrained Language Models Make Better Storytellers? [[paper](https://www.aclweb.org/anthology/K19-1079.pdf)]
