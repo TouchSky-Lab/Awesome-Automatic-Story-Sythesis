@@ -8,7 +8,7 @@
 - Hierarchical Neural Story Generation arxiv, 2018.  [[paper](https://arxiv.org/abs/1805.04833)]  
 - Toward Automated Quest Generation in Text-Adventure Games arxiv, 2019. [[paper](https://arxiv.org/abs/1909.06283)]  
 - Toward Automated Story Generation with Markov Chain Monte Carlo Methods and Deep Neural Networks INT, 2017. [[paper](https://www.cc.gatech.edu/~riedl/pubs/int17.pdf)]  
-- dAIrector: Automatic Story Beat Generation through Knowledge Synthesis AAAI, 2018.  [[paper](https://arxiv.org/abs/1811.03423)]  
+- dAIrector: Automatic Story Beat Generation through Knowledge Synthesis AAAI, 2018.  [[paper](https://arxiv.org/abs/1811.03423)][[code](https://github.com/korymath/dairector)]  
 - Creative Help: A Story Writing Assistant ICIDS, 2015. [[paper](https://people.ict.usc.edu/gordon/public_html/publications/ICIDS15.PDF)]  
 
 # Narrative Data Mining
