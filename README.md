@@ -21,15 +21,23 @@
 # Story Genration Evaluation Metric
 - Do Massively Pretrained Language Models Make Better Storytellers? [[paper](https://www.aclweb.org/anthology/K19-1079.pdf)]
 - 
-
-
-# Narrative Data Mining
-
 # Visual Storytelling
 - Visual Storytelling.  NAACL 2016. [[paper](https://arxiv.org/abs/1604.03968)]
 - Knowledge-Enriched Visual Storytelling. AAAI 2020. [[paper](https://arxiv.org/abs/1912.01496)]
 - Visual Story Post-Editing. ACL 2019. [[paer](https://arxiv.org/abs/1906.01764)]
-- 
+
+
+# Text-Adventure Games
+- Playing Text-Adventure Games with Graph-Based Deep Reinforcement Learning arxiv, 2018. [[paper](https://arxiv.org/abs/1812.01628)]
+- Transfer in Deep Reinforcement Learning using Knowledge Graphs arxiv, 2019. [[paper](https://arxiv.org/abs/1908.06556)]
+- Graph Constrained Reinforcement Learning for Natural Language Action Spaces ICLR, 2019. [[paper](https://openreview.net/forum?id=B1x6w0EtwH)]
+- Language Understanding for Text-based Games Using Deep Reinforcement Learning arxiv, 2015.[[paper](https://arxiv.org/abs/1506.08941)]
+- Learn How to Cook a New Recipe in a New House: Using Map Familiarization, Curriculum Learning, and Bandit Feedback to Learn Families of Text-Based Adventure Games arxiv, 2019.[[paper](https://arxiv.org/abs/1908.04777)]
+- Comprehensible Context-driven Text Game Playing arxiv, 2019.[[paper](https://arxiv.org/abs/1905.02265)]
+- Learning How Not to Act in Text-based Games ICLR, 2018. [[paper](https://openreview.net/forum?id=B1-tVX1Pz)]
+- The Text-Based Adventure AI Competition IEEE, 2019. [[paper](https://ieeexplore.ieee.org/abstract/document/8629315)]
+- Learning to Speak and Act in a Fantasy Text Adventure Game arxiv 2019. [[paper](https://arxiv.org/abs/1903.03094)]
+
 
 # Theory
 
