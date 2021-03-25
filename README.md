@@ -26,6 +26,10 @@
 # Narrative Data Mining
 
 # Visual Storytelling
+- Visual Storytelling.  NAACL 2016. [[paper](https://arxiv.org/abs/1604.03968)]
+- Knowledge-Enriched Visual Storytelling. AAAI 2020. [[paper](https://arxiv.org/abs/1912.01496)]
+- Visual Story Post-Editing. ACL 2019. [[paer](https://arxiv.org/abs/1906.01764)]
+- 
 
 # Theory
 
