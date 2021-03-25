@@ -30,6 +30,10 @@
 # Theory
 
 
+# Dataset
+- [ROCStories Corpora](https://www.cs.rochester.edu/nlp/rocstories/): a new corpus of five-sentence commonsense stories. This corpus is unique in two ways: (1) it captures a rich set of causal and temporal commonsense relations between daily events, and (2) it is a high quality collection of everyday life stories that can also be used for story generation
+
+
 
 # Reference
 [1] https://github.com/LouisCastricato/Narratology-Papers
