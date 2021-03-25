@@ -20,7 +20,13 @@
 
 # Story Genration Evaluation Metric
 - Do Massively Pretrained Language Models Make Better Storytellers? [[paper](https://www.aclweb.org/anthology/K19-1079.pdf)]
-- 
+- Predicting Generated Story Quality with Quantitative Measures. AAAI,2018. [[paper](https://www.aclweb.org/anthology/K19-1079.pdf)]
+- Reading Between the Lines: Using Plot Graphs to Draw Inferences From Stories ICIDS, 2016. [[paper](https://link.springer.com/chapter/10.1007/978-3-319-48279-8_18)]
+- Evaluating Coherence in Dialogue Systems using Entailment arxiv, 2019.[[paper](https://arxiv.org/abs/1904.03371)]
+- Shaping the Narrative Arc: An Information-Theoretic Approach to Collaborative Dialogue arxiv, 2019. [[paper](https://arxiv.org/abs/1901.11528)]
+- Evaluating Story Generation Systems Using Automated Linguistic Analyses KDD, 2017.[[paper](https://roemmele.github.io/publications/fiction_generation.pdf)]
+
+
 # Visual Storytelling
 - Visual Storytelling.  NAACL 2016. [[paper](https://arxiv.org/abs/1604.03968)]
 - Knowledge-Enriched Visual Storytelling. AAAI 2020. [[paper](https://arxiv.org/abs/1912.01496)]
