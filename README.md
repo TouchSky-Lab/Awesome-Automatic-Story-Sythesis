@@ -47,7 +47,8 @@
 
 # Theory
 - A CONCEPTUAL FRAMEWORK FOR INTERACTIVE CARTOGRAPHIC STORYTELLING N/A, 2018. [[paper](https://library.itc.utwente.nl/papers_2018/msc/gfm/LandaverdeCortes.pdf)]
-- 
+
+
 
 # Dataset
 - [ROCStories Corpora](https://www.cs.rochester.edu/nlp/rocstories/): a new corpus of five-sentence commonsense stories. This corpus is unique in two ways: (1) it captures a rich set of causal and temporal commonsense relations between daily events, and (2) it is a high quality collection of everyday life stories that can also be used for story generation
